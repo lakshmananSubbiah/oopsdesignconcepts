@@ -3,7 +3,8 @@ package oopsconcepts.dbhelper;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Map;
-
+/** this is a database helper
+ */
 public interface DatabaseHelper {
 	
 	public ResultSet insertData(String tableName,Map<String,Object> values) throws SQLException;
