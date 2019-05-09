@@ -3,7 +3,7 @@ package oopsconcepts.dbhelper;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Map;
-/** this is a database helper
+/** this is a database helper sat
  */
 public interface DatabaseHelper {
 	
